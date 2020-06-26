@@ -1,0 +1,10 @@
+out/
+.idea/
+*.iws
+*.ipr
+*.iml
+
+desktop.ini
+
+JungleGame/_critters_network_settings.txt
+JungleGame/_critters_saved_settings.txt
